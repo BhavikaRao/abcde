@@ -1,0 +1,35 @@
+@charset "utf-8";
+/* CSS Document */
+
+
+@media only screen and (max-device-width: 414px){
+
+#sub-head{
+    font-size: 14px;
+    width: 65%;
+    color: #4c4c4c;
+    padding: 9px;
+    background: #fdfdfd;
+    border: 1px solid #dcdcdc;
+    text-align: left;
+    margin-top: 10px;
+    font-weight: bold;}
+	
+.act-img {
+    border-radius: 80px;
+    height: 90px;
+    width: 90px;
+    margin: 0 0 5px 15px;
+}
+
+.form-field-area {
+	
+	width: 95%;
+}
+
+.img-sec {
+    float: right;
+    margin-top: 10px;
+}
+
+}
